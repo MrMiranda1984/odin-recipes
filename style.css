@@ -1,0 +1,29 @@
+* {
+    background-color: lightblue;
+}
+h1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+body {
+    color: cornflowerblue;
+}
+
+img {
+    border: darkslategray;
+}
