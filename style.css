@@ -1,16 +1,22 @@
 * {
-    background-color: lightblue;
+    background-color: white;
 }
 h1 {
-    color: blue;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: 120px;
+    
+
 }
 
+
+
 h2 {
-    color: blue;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
+    border: 10px;
+
 }
 
 
